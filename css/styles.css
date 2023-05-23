@@ -64,7 +64,12 @@ body {
 h1{
   font-size: 3em;
 }
-
+.main p{
+  margin-bottom: 1em;
+  font-size: 1.2em;
+ text-align: justify;
+  font-family: Montserrat;
+}
 span{
   color: aqua;
 }
@@ -122,10 +127,12 @@ span{
   margin-bottom: 2em;
 }
 .about p{
+  padding: 25px;
+  background-color: rgb(238, 237, 237);
   margin-bottom: 1em;
   font-size: 2em;
- 
-  font-family: Montserrat;
+  text-align: justify;
+  font-family:'Courier New', Courier, monospace;
 }
 
 .portfolio-headings{
